@@ -1,0 +1,13 @@
+     
+
+
+    figma to html
+    color:
+         black #000000
+         green #21B573
+         orang #FD511A
+      font-link: <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@100&family=Playfair+Display:wght@400;700;900&family=Poppins:wght@400;500;700&family=Roboto:wght@300;700&family=Ubuntu:ital,wght@0,300;1,700&display=swap');
+</style>
+   font-family:
+             poppins-400, 700, 900
